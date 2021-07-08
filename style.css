@@ -159,8 +159,22 @@ h3{
     padding: 0 5%;
 }
 
+.top-post-item a{ 
+    color: #34495E;
+    text-decoration: none;
+}
 .top-post-item img{
     width: 100%;
     border: 2px solid #f1b15d;
     border-radius: 10px;
+}
+
+footer{
+    padding: 5px;
+    background-image: linear-gradient(to left, orange, tomato);
+}
+
+footer p{
+    color: white;
+    text-align: center;
 }
