@@ -31,6 +31,12 @@ body{
 
 }
 
+.sec-top-post{
+    background-image: url(images/shapes/Frame59.jpg);
+    background-repeat: no-repeat; 
+    background-size: cover;
+}
+
 .sec-contact{
 
 }
@@ -140,4 +146,21 @@ h3{
 
 .number-item p{
     padding: 0;
+}
+
+#top-post-header{
+    padding-top: 5px;
+}
+.top-posts{
+    margin: 0 5%;
+}
+
+.top-post-item{
+    padding: 0 5%;
+}
+
+.top-post-item img{
+    width: 100%;
+    border: 2px solid #f1b15d;
+    border-radius: 10px;
 }
