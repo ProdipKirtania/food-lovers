@@ -1,0 +1,64 @@
+body{
+    font-family: 'Roboto', sans-serif;
+}
+
+.flexible-container{
+    display: flex;
+}
+.sec-top-banner{
+
+}
+
+.sec-top-about{
+
+}
+
+.sec-top-recipies{
+
+}
+
+.sec-top-numbers{
+
+}
+
+.sec-top-contact{
+
+}
+
+h1{
+    font-size: 50px;
+}
+
+h2{
+    font-size: 40px;
+}
+
+.justify{
+    text-align: justify;
+}
+
+.center{
+    text-align: center;
+}
+.coral-color{
+    color:coral;
+}
+
+.pumpkin-color{
+    color: #e74c3c;
+}
+
+.bluebell-color{
+    color: #341f97;
+}
+.flexible-container{
+    display: flex;
+    margin-bottom: 100px;
+}
+
+.half-page{
+    width: 50%;
+    padding-left: 5%;
+    padding-right: 5%;
+   
+}
